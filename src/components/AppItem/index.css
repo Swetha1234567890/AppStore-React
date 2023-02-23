@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-icon {
+  height: 100px;
+  width: 120px;
+}
+
+.list-items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  font-family: 'Bree Serif';
+  margin: 20px;
+}

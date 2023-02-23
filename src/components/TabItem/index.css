@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.tab-btn {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  border: transparent;
+  font-size: 25px;
+  margin: 20px;
+}
+
+.active-tab-btn {
+  color: #1e293b;
+  text-decoration: underline;
+}
+
+.not-active-btn {
+  text-decoration: none;
+  color: #7b8794;
+}
